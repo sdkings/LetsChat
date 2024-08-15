@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="searchEmailEditText" type="id" />
+    <item name="searchButton" type="id" />
+    <item name="userInfoLayout" type="id" />
+    <item name="sendRequestButton" type="id" />
+</resources>
